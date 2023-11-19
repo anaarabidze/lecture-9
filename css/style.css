@@ -1,0 +1,136 @@
+.container {
+  width: 1263px;
+  margin: 0 auto;
+}
+
+.header {
+  height: 90px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+ul {
+  width: 500px;
+  display: flex;
+  justify-content: space-between;
+}
+
+li {
+  color: #636060;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.section1 {
+  height: 606px;
+  background-image: url(../images/Rectangle1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: #fff;
+  font-family: Helvetica;
+  font-size: 79px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+h2 {
+  color: #fff;
+  font-family: Helvetica;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 31px;
+  text-align: center;
+}
+
+.section2 {
+  margin-top: 84px;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.first {
+  width: 235px;
+  margin-right: 83px;
+}
+
+h3 {
+  color: #636060;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 9px;
+}
+
+h4 {
+  color: #010101;
+  font-family: Helvetica;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 37px;
+}
+
+h5 {
+  color: #636060;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.second {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 924px;
+  height: 680px;
+}
+
+.card {
+  width: 286px;
+  height: 312px;
+}
+
+h6 {
+  color: #343232;
+  font-family: Helvetica;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 23px;
+}
+
+p {
+  color: #636060;
+  font-family: Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 9px;
+}
